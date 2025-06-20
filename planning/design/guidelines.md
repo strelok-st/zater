@@ -15,7 +15,7 @@ Fonte: https://coolors.co
 *Cor primária*: #FFD7BA
 *Cor secundário*: #AE2012
 *Cor neutra*:
-	1. Claro: #E9D8A6
+	1. Claro: #F0EFEC
 	2. Escuro: #001219
 	3. Mediano: #E5E5E5
 *Cor semântica*:

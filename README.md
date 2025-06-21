@@ -1,11 +1,14 @@
-# TZB
-Gerenciador de tarefas criado por mim para me auxiliar no dia a dia. Fique à vontade para criar sua própria versão dele.
+# Zater
+## Objetivo e descrição
+O objetivo deste sofwtare é emular um sistema gerenciador de tarefas dentro de um terminal qualquer. Seja Linux, Mac ou Windows. É software livre e open source, fique à vontade para fazer forks, suas próprias versões ou simplesmente sugerir ideias, etc.
+## Funcionalidades
 
-## Índice da documentação:
-A. Introdução.
-B. Tecnologias Usadas.
-C. Modo de instalação e uso.
-	C.1) Terminal.
-	C.2) Portátil.
+## Etapas do projeto
+- [] Planejamento
+	- [x] Objetivo princpal.
+	- [] Definição das funcionalidades
+	- [x] Sketch das interfaces.
 
-## A. Introdução
+- [] Implementação
+	
+- [] Documentação

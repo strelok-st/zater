@@ -1,0 +1,52 @@
+<?xml encoding='utf-8' version='1.0'>
+
+<config>
+	<name></name>
+	<email></email>
+	<login_template></login_address>
+	<menu_template></menu_address>
+	<task_template></task_adress>
+</config>
+
+<data>
+	<list_name>
+		<title></title>
+		<pos></pos>
+		<task_number>
+			<task_title></task_title>
+			<status></status>
+			<pos></pos>
+			<priority></priority>
+			<detail></detail>
+				<subtasks>
+
+				</subtasks>
+		</task_number>
+
+		<task_number>
+			<task_title></task_title>
+			<pos></pos>
+			<status></status>
+			<priority></priority>
+			<detail></detail>
+				<subtasks>
+
+				</subtasks>
+		</task_number>
+			<task_title></task_title>
+			<status></status>
+			<pos></pos>
+			<priority></priority>
+			<detail></detail>
+				<subtasks>
+				</subtasks>
+		</task_number>
+	</list_name>
+
+</data>
+
+
+<!-- 
+1. Os nomes que vão ser personalizáveis terão esses marcadores específicos: type_[nome] ou type_[numero].
+
+-->

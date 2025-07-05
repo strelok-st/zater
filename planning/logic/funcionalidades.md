@@ -1,4 +1,4 @@
-## Funcionalidades (F) e estruturas (E)
+## Funcionalidades (F)
 1. Login:
 	a. Entrar no software. (F)
 	b. Sair no software.(F)
@@ -7,18 +7,44 @@
 	a. Adicionar (F)
 	b. Remover (F)
 	c. Editar (F)
-	d. Mudar prioridade (F)
-	e. Tarefa (E): título, status, prioridade, subtarefas e detalhamento.
-	f. Subtarefa (E): título, status, prioridade e detalhamento.
 
 3. Gerenciar Listas de Tarefas:
 	a. Adicionar (F)
 	b. Remover (F)
 	c. Editar (F)
-	d. Lista (E): título, tarefas e detalhamento.
 
-## Requisitos:
-1. Terminal.
-2. Python 3.x.
-3. SQLite
-4. Textual.
+4. Menu:
+	a. Iterar sobre as opções.
+	b. Selecionar.
+	c. Voltar.
+	d. Atalhos (Ctrl + Key).
+
+5. Renderizador de Páginas:
+	a. Mostra a página de login.
+	b. Se move entre páginas.
+
+## Estruturas:
+1. Tarefa:
+	a. Título
+	b. Status
+	c. Prioridade
+	d. Subtarefas
+	e. Detalhamento 
+	f. posição na lista.
+
+2. Subtarefa:
+	a. Título
+	b. Status
+	c. Prioridade
+	d. Detalhamento
+	e. posição na lista.
+
+3. Lista:
+	a. Título.
+	b. Tarefas.
+	c. posição.
+
+3. Menu.
+	a. Opções.
+	b. Comandos.
+	c. Atalhos.
